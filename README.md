@@ -1,4 +1,37 @@
-# JAVA-PROBLEMS-TASK-5
+# Java Programs-1
+
+This repository contains (Java) programming problems completed as part of my Computer Science and Engineering (CSE) coursework.
+
+## Topics Covered
+
+- Temperature conversion (Fahrenheit to Celsius)
+- Leap year determination
+- Sum of squares of odd numbers
+- Alternating series evaluation
+- Factorial calculation
+- Power calculation using base and exponent
+- Bangla season determination using conditional statements
+- Finding the largest element in an array
+- Sorting numbers in ascending order
+
+## Language and Tools
+
+**Language:** Java
+**IDE:** Visual Studio Code (VS Code)
+
+## Purpose
+
+To practice Java programming, apply fundamental programming concepts, and strengthen problem-solving skills through coursework.
+
+## How to Run
+
+1. Open the desired `.java` file in Visual Studio Code.
+2. Compile and run the program using the Java Development Kit (JDK).
+3. Provide the required input to view the output.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+JAVA-PROBLEMS-TASK-5 (lab exercise explanation)
 Post Lab Exercise:
 6.a. Write a Java program to convert temperature from Fahrenheit to Celsius
 degree.
